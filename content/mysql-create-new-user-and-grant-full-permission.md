@@ -1,4 +1,4 @@
-[Back to Home](https://github.com/thawheinthit/notes/gh-pages/index.md)
+[Back to Home](../index.md)
 
 
 ## mysql create new user and grant full permission
